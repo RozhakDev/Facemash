@@ -1,0 +1,7 @@
+pycryptodome
+cryptography
+requests
+rich
+futures
+pycryptodomex
+PyNaCl
