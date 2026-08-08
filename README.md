@@ -1,4 +1,4 @@
-# 💥 Facemash - The Ultimate Facebook Hacking Arsenal 🔓 Python-Powered Chaos
+# 💥 Facemash - The Ultimate Facebook Hacking Arsenal 🔓 Python-Powered Chaos. 
 
 ![Facemash - Logo](https://github.com/user-attachments/assets/94a63dcc-d898-4b95-85f5-5f248d111b3e)
 
